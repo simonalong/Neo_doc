@@ -1,6 +1,7 @@
 # 十一、join
 
-对于表join有如下这么几种类型<br />![image.png](\img\join.png)
+对于表join有如下这么几种类型<br />
+<img src = "\img\join.png" size="280px">
 
 根据以上对于join的处理，这里新增了一个NeoJoiner类用于链式的拼接sql处理。以下为类Neo中的函数
 
