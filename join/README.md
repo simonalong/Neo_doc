@@ -1,8 +1,7 @@
 # 十一、join
 
 对于表join有如下这么几种类型<br />
-![image.png](\img\join.png)
-![image.png](https://cdn.nlark.com/yuque/0/2019/png/126182/1557391855029-fcd5edb6-1a0f-486d-b60f-06a5c5c76aa6.png#align=left&display=inline&height=587&name=image.png&originHeight=760&originWidth=966&size=485473&status=done&width=746@200h)
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/126182/1557391855029-fcd5edb6-1a0f-486d-b60f-06a5c5c76aa6.png#align=left&display=inline&height=587&name=image.png&originHeight=760&originWidth=966&size=485473&status=done&width=746)
 
 根据以上对于join的处理，这里新增了一个NeoJoiner类用于链式的拼接sql处理。以下为类Neo中的函数
 
