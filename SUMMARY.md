@@ -31,5 +31,6 @@
 * [十六、多数据源(待开发)](multiDatasource/README.md)
     * [sqlLite](multiDatasource/sqlLite.md)
     * [PostGresql](multiDatasource/postGresql.md)
-* [十七、版本记录](version/README.md)    
+* [十七、设计说明](design/README.md)
+* [十八、版本记录](version/README.md) 
 
