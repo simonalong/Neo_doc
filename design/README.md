@@ -2,4 +2,4 @@
 
 #### Neo类结构设计
 其中Neo类设计采用多个维度，因此这里设计采用多重维度，异步同步维度，DB和表维度，以及给外部继承的业务维度，划分如下，作为理解源码的参考<br/>
-![image.png](/img/join.png)
+![image.png](/img/image.png)
