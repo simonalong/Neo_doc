@@ -8,10 +8,14 @@ Neo是一个基于JDBC开发的至简化框架。开发源头，源于几个原�
 <dependency>
   <groupId>com.github.simonalong</groupId>
   <artifactId>Neo</artifactId>
-  <version>0.3.0</version>
+  <version>0.4.3</version>
 </dependency>
 ```
 
 源码：https://github.com/SimonAlong/Neo
+
+---
+文档方面找到更好的编写的位置因此后续文档不再更新，最新文档请见这里
+https://www.yuque.com/simonalong/neo
 
 
